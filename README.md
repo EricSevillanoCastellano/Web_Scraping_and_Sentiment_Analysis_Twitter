@@ -27,7 +27,7 @@ Finally, we will save all the data in a *csv* file.
 
 At this stage we will process the data obtained at the previous stage. This data processing consist on:
 
-- Converting the post date into *Datetime* format.
+- Converting the post date into *Datetime* format (using `datetime` package).
 - Converting the nº of replies, retweets and likes into numerical values.
 - Processing the comments, deleting any special character (using `preprocessor` and `re` packages)
 - Identifying the main language of each tweet (using `langdetect` package).
