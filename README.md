@@ -19,7 +19,7 @@ At this first stage we will focus on scraping Twitter (using `selenium` package)
 
 Then, we will select the *Lastest* tab and we will obtain all the information for each tweet, sorted from newest to oldest and scrolling the screen periodically in order to refresh the loaded tweets and get to the bottom.
 
-Finally, we will save all the data in a *csv* file.
+Finally, we will collect all the data in `pandas` dataframe and then save in a *csv* file.
 
 <div id="stage-II"></div>
 
@@ -34,7 +34,7 @@ At this stage we will process the data obtained at the previous stage. This data
 - Filtering tweets in case they are too short or the designed language is not clear enough.
 - Collecting the set of emojis that are on the tweets.
 
-Finally, we will save all the cleaned data in a *csv* file.	
+Finally, we will collect all the cleaned data in `pandas` dataframe and then save in a *csv* file.	
 
 <div id="stage-III"></div>
 
