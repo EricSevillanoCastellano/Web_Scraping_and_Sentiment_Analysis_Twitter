@@ -53,10 +53,10 @@ Finally, we will save all the cleaned data in a *csv* file.
 
 ## References [^](#contents)
 
-- Twitter-Scraper Repository: https://github.com/israel-dryer/Twitter-Scraper
-- *Tkinter* Course - Create Graphic User Interfaces in Python Tutorial: https://www.youtube.com/watch?v=YXPyB4XeYLA&ab_channel=freeCodeCamp.org
-- *Tkinter* display and mask password in an entry box based on Checkbutton click event using show option: https://www.plus2net.com/python/tkinter-Entry-password.php
-- *Preprocessor* Python Library Repository: https://github.com/s/preprocessor
+- [Twitter-Scraper Repository](https://github.com/israel-dryer/Twitter-Scraper)
+- [*Tkinter* Course - Create Graphic User Interfaces in Python Tutorial](https://www.youtube.com/watch?v=YXPyB4XeYLA&ab_channel=freeCodeCamp.org)
+- [*Tkinter* display and mask password in an entry box based on Checkbutton click event using show option](https://www.plus2net.com/python/tkinter-Entry-password.php)
+- [*Preprocessor* Python Library Repository](https://github.com/s/preprocessor)
 
 
 
