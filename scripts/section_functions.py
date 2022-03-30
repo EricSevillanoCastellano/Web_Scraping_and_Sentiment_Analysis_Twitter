@@ -60,7 +60,6 @@ def scraping_data():
     acc_username = driver.find_element( by = By.XPATH, value = '//input[@name="text"]' )
     # acc_username = WebDriverWait( driver, timeout = 3 ).until( lambda d: d.find_element( by = By.XPATH, value = '//input[@name="text"]' ) )
     
-    # acc_username_str = 'ericsecas@gmail.com'
     # root = tk.Tk() #esto se hace solo para eliminar la ventanita de Tkinter
     # root.attributes("-topmost", True)
     # root.withdraw() #ahora se cierra 
@@ -92,7 +91,6 @@ def scraping_data():
         # another_acc_username = driver.find_element_by_xpath( '//input[@name="text"]' )
         another_acc_username = driver.find_element( by = By.XPATH, value = '//input[@name="text"]' )
         # another_acc_username = WebDriverWait( driver, timeout = 3 ).until( lambda d: d.find_element( by = By.XPATH, value = '//input[@name="text"]' ) )
-        # another_acc_username_str = '_KuraiHikari'
         # root = tk.Tk() #esto se hace solo para eliminar la ventanita de Tkinter
         # root.attributes("-topmost", True)
         # root.withdraw() #ahora se cierra 

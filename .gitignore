@@ -1,0 +1,5 @@
+Aux_Data/
+Prueba_Twitter.ipynb
+*.csv
+scripts/__pycache__/
+.ipynb_checkpoints/
