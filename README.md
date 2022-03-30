@@ -30,7 +30,7 @@ At this stage we will process the data obtained at the previous stage. This data
 - Converting the post date into *Datetime* format.
 - Converting the nº of replies, retweets and likes into numerical values.
 - Processing the comments, deleting any special character (using `preprocessor` and `re` packages)
-- Identifying the main language of each tweet.
+- Identifying the main language of each tweet (using `langdetect` package).
 - Filtering tweets in case they are too short or the designed language is not clear enough.
 - Collecting the set of emojis that are on the tweets.
 
