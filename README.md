@@ -1,6 +1,6 @@
 # Web Scraping and Sentiment Analysis Twitter
 
-This is repository consists in Twitter's Web Scraping using a given term and then applying Sentiment Analysis to the extracted tweets.
+This repository consists in Twitter's Web Scraping using a given term and then applying Sentiment Analysis to the extracted tweets.
 
 ## Contents
 
